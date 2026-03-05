@@ -1,4 +1,5 @@
 📊 PhonePe Transaction Data Analysis Dashboard
+
 📌 Project Overview
 
 This project analyzes digital payment transaction data from PhonePe to understand transaction trends, payment growth, and regional adoption of digital payments in India.
@@ -22,14 +23,20 @@ The project focuses on transforming raw transaction data into interactive insigh
 📂 Dataset Information
 
 The dataset contains information about PhonePe transactions including:
-
 Column	Description
-State	State where transaction occurred
-Year	Transaction year
-Quarter	Quarter of transaction
-Transaction Type	Category of transaction
-Transaction Count	Number of transactions
-Transaction Amount	Total transaction value
+
+State:	State where transaction occurred
+
+Year:	Transaction year
+
+Quarter:	Quarter of transaction
+
+Transaction: Type	Category of transaction
+
+Transaction Count:	Number of transactions
+
+Transaction Amount:	Total transaction value
+
 📊 Dashboard Features
 
 The Power BI dashboard includes:
