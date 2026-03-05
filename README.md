@@ -9,15 +9,21 @@ The project focuses on transforming raw transaction data into interactive insigh
 🎯 Project Objectives
 
 • Analyze overall transaction volume and transaction value
+
 • Identify state-wise digital payment adoption
+
 • Understand yearly and quarterly growth trends
+
 • Detect high-performing regions in digital payments
+
 • Present insights using an interactive Power BI dashboard
 
 🛠️ Tools & Technologies
 
 • Microsoft Excel – Data cleaning and preparation
+
 • Power BI – Data modeling and dashboard creation
+
 • Power BI Visualizations – Interactive charts and KPIs
 
 📂 Dataset Information
