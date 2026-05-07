@@ -1,14 +1,14 @@
-📊 PhonePe Transaction Data Analysis Dashboard
+PhonePe Transaction Data Analysis Dashboard
 
 
-📌 Project Overview
+Project Overview
 
 This project analyzes digital payment transaction data from PhonePe to understand transaction trends, payment growth, and regional adoption of digital payments in India.
 
 The project focuses on transforming raw transaction data into interactive insights using Excel and Power BI, helping stakeholders understand how digital payments are evolving across different states and time periods.
 
 
-🎯 Project Objectives
+Project Objectives
 
 • Analyze overall transaction volume and transaction value
 
@@ -21,7 +21,7 @@ The project focuses on transforming raw transaction data into interactive insigh
 • Present insights using an interactive Power BI dashboard
 
 
-🛠️ Tools & Technologies
+Tools & Technologies
 
 • Microsoft Excel – Data cleaning and preparation
 
@@ -30,7 +30,7 @@ The project focuses on transforming raw transaction data into interactive insigh
 • Power BI Visualizations – Interactive charts and KPIs
 
 
-📂 Dataset Information
+Dataset Information
 
 The dataset contains information about PhonePe transactions including:
 Column	Description
@@ -48,7 +48,7 @@ Transaction Count:	Number of transactions
 Transaction Amount:	Total transaction value
 
 
-📊 Dashboard Features
+Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -60,7 +60,7 @@ The Power BI dashboard includes:
 • Regional Performance Comparison
 
 
-🔍 Key Insights
+Key Insights
 
 • Digital payment adoption has increased significantly over the years.
 
@@ -71,7 +71,7 @@ The Power BI dashboard includes:
 • Some regions have high transaction volume but lower transaction value, suggesting frequent small-value payments.
 
 
-💡 Business Recommendations
+Business Recommendations
 
 • Expand marketing efforts in low adoption states to increase digital payment penetration.
 
